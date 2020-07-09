@@ -1,2 +1,3 @@
 # Curso de desenvolvimento Web
- Exercícios HTML/CSS/JAVASCRIPT
+***
+Exercícios que venho realizando nas aulas de desenvolvimento Web :desktop_computer: :computer_mouse:
